@@ -45,7 +45,7 @@
 <!--                    <version>3.0.4</version>-->
                     <configuration>
                         <jdkVersion>11</jdkVersion>
-                        <appName>telegram-bot-itcluster</appName>
+                        <appName>telegram-bot-oleksii17112020</appName>
                         <processTypes>
                             <web>java $JAVA_OPTS -cp target/classes:target/dependency/* org.example.Launcher</web>
                         </processTypes>
