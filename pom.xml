@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>telegram-bot-itcluster</artifactId>
+    <artifactId>telegram-bot-oleksii17112020</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>telegram-bot-itcluster</name>
+    <name>telegram-bot-oleksii17112020</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
