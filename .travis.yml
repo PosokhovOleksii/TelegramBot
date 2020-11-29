@@ -1,7 +1,7 @@
 sudo: required
 dist: xenial
 jdk:
-  - openjdk11
+  - openjdk11.0.8
 script:
   - mvn clean package
   - mvn sonar:sonar
